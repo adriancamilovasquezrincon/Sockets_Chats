@@ -1,0 +1,25 @@
+.card-header{
+    text-align: center;
+    line-height: normal;
+    text-overflow: ellipsis;
+}
+#output{
+    color:black;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
+}
+
+.card-body{
+    border-radius: 15px 15px 15px 15px solid grey;
+}
+body{
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.container{
+    background-image: url(https://i.pinimg.com/736x/50/48/ed/5048ed1578ac90366fd369a9b574c539.jpg);
+}
